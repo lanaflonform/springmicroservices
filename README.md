@@ -12,3 +12,5 @@ Startup guide :
     Then execute 'cd service && mvn spring-boot:run'
 
 Now you can open your browser and navigate to http://localhost:8080/message. You will see the message 'Hello from dev properties'.
+
+https://xebia.developpez.com/tutoriels/spring/patterns-microservices-springcloud/
